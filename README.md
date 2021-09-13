@@ -1,18 +1,14 @@
-### 👋 Olá, me chamo Victor!
+## Hi there 👋 I'm Victor <img align="right" src="https://komarev.com/ghpvc/?username=victordantasdev&color=269077">
 
-> Sou apaixonado por tecnologia, desenvolvimento e engenharia. Meu foco de estudos é em desenvolvimento front-end utilizando as tecnologias mais modernas do mercado como JavaScript, TypeScript, ReactJS e Next.js, mas sem esquecer da base da computação e sempre buscando a melhor experiência para o usuário final. Trabalho e acredito em ações que possam gerar um impacto positivo na vida das pessoas e do meio ambiente.
+### 🧑🏽‍💻 &nbsp;About Me
+> I am passionate about technology, development and engineering. My focus of studies is on front-end development using the most modern technologies on the market such as JavaScript, TypeScript, ReactJS and Next.js, but without forgetting the basis of computing and always looking for the best experience for the end user. I work and believe in actions that can generate a positive impact on people's lives and the environment.
 
-- 🌱 Atualmente estudando Next.js e TypeScript;
-- 📫 Você pode conferir detalhes dos meu projetos no meu [site pessoal](https://victordantas.dev/);
+- 🌱 I’m currently learning Next.js e TypeScript;
+- 📫 You can check my main projects on my [personal website](https://victordantas.dev/);
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordantasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordantasdev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
 ---
 
-### 🧠 Principais tecnologias
+### 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,6 +18,22 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordantasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordantasdev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+---
+
+### 📫 &nbsp;Connect with Me
+[![gmail](https://img.shields.io/badge/-victordantasdeveloper@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:victordantasdeveloper@gmail.com)
+[![telegram](https://img.shields.io/badge/-@victordantasdev-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/victordantasdev)
+[![twitter](https://img.shields.io/badge/-@victordantasdev-0e3e55?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/victordantasdev)
+[![linkedin](https://img.shields.io/badge/-victordantas-0e3e55?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dantas-dev/)
 
 <!--
 **victordantasdev/victordantasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
