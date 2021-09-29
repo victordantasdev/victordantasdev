@@ -23,7 +23,7 @@
 ---
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordantasdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordantasdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -31,10 +31,10 @@
 ---
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-victordantasdeveloper@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:victordantasdeveloper@gmail.com)
-[![telegram](https://img.shields.io/badge/-@victordantasdev-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/victordantasdev)
-[![twitter](https://img.shields.io/badge/-@victordantasdev-0e3e55?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/victordantasdev)
-[![linkedin](https://img.shields.io/badge/-victordantas-0e3e55?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dantas-dev/)
+[![gmail](https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:victordantasdeveloper@gmail.com)
+[![telegram](https://img.shields.io/badge/-telegram-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/victordantasdev)
+[![twitter](https://img.shields.io/badge/-twitter-0e3e55?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/victordantasdev)
+[![linkedin](https://img.shields.io/badge/-linkedin-0e3e55?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dantas-dev/)
 
 <!--
 **victordantasdev/victordantasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
