@@ -4,7 +4,7 @@
 > I am passionate about technology, development and engineering. My focus of studies is on front-end development using the most modern technologies on the market such as JavaScript, TypeScript, ReactJS and Next.js, but without forgetting the basis of computing and always looking for the best experience for the end user. I work and believe in actions that can generate a positive impact on people's lives and the environment.
 
 - 🌱 I’m currently learning Next.js e TypeScript;
-- 📫 You can check my main projects on my [personal website](https://victordantas.dev/);
+- 📫 You can check my main projects on my [personal website](https://victordantas.dev/) (under construction);
 
 ---
 
