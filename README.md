@@ -34,7 +34,7 @@
 [![gmail](https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:victordantasdeveloper@gmail.com)
 [![telegram](https://img.shields.io/badge/-telegram-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/victordantasdev)
 [![twitter](https://img.shields.io/badge/-twitter-0e3e55?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/victordantasdev)
-[![linkedin](https://img.shields.io/badge/-linkedin-0e3e55?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-dantas-dev/)
+[![linkedin](https://img.shields.io/badge/-linkedin-0e3e55?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victordantasdev/)
 
 <!--
 **victordantasdev/victordantasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
