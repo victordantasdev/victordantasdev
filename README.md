@@ -5,7 +5,7 @@
 > I am passionate about technology, development and engineering. My focus of studies is on front-end development using the most modern technologies on the market such as JavaScript, TypeScript, ReactJS and Next.js, but without forgetting the basis of computing and always looking for the best experience for the end user. I work and believe in actions that can generate a positive impact on people's lives and the environment.
 
 - <img alt="seedling" height="15" width="15" src="https://user-images.githubusercontent.com/64330605/147497676-ff3d5def-5674-4a1a-9782-5b55daf5d115.png"> I’m currently learning Next.js, TypeScript and Rust;
-- <img alt="closed-mailbox-with-raised-flag" height="15" width="15" src="https://user-images.githubusercontent.com/64330605/147497739-27fa138a-3120-406e-8b9e-dd7b363445f1.png"> You can check my main projects on my [personal website](https://victordantas.dev/);
+- <img alt="closed-mailbox-with-raised-flag" height="15" width="15" src="https://user-images.githubusercontent.com/64330605/147497739-27fa138a-3120-406e-8b9e-dd7b363445f1.png"> You can check my main projects on my [website](https://victordantas.dev/);
 
 ---
 
