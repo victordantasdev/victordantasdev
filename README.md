@@ -6,7 +6,7 @@ I'm a full stack developer with experience building web applications using React
 * 🌍  I'm based in Brazil 🇧🇷
 * 🖥️  See my portfolio at <a href="https://victordantas.dev/" target="_blank">my website</a>
 * ✉️  You can contact me at [victordantasdeveloper@gmail.com](mailto:victordantasdeveloper@gmail.com)
-* 🚀  I'm currently working on [Softaliza](http://https://softaliza.com.br/)
+* 🚀  I'm currently working on [Fox IoT](https://foxiot.com.br/)
 * 🧠  I'm learning to [Go](https://go.dev/doc/)
 * 🤝  I'm open to collaborating on any open-source project
 ---
