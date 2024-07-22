@@ -19,13 +19,3 @@ A full stack Software Engineer passionate about creating innovative solutions. W
   </a>
   <br />
 </div>
-
----
-
-<details>
-<summary>Github Stats ⚡</summary>
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="contributions" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victordantasdev&theme=dracula&utcOffset=-3" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victordantasdev&theme=dracula" />
-</details>
