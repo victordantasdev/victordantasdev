@@ -6,7 +6,7 @@ A full stack Software Engineer passionate about creating innovative solutions. W
 * 🌍  I'm based in Brazil 🇧🇷
 * 🖥️  See my portfolio at <a href="https://victordantas.dev/" target="_blank">my website</a>
 * 🌐  You can contact me at [victordantasdeveloper@gmail.com](mailto:victordantasdeveloper@gmail.com)
-* 🚀  I'm currently working on [Fox IoT](https://foxiot.com.br/)
+* 🚀  I'm currently working at [Bamse](https://www.bamse.co/)
 * 🧠  I'm learning to [Go](https://go.dev/doc/)
 * 🤝  I'm open to collaborating on any open-source project
 
